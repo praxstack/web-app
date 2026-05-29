@@ -757,7 +757,8 @@
       "DONE": "Hecho",
       "Submitting": "Enviando",
       "OK": "OK",
-      "undo_account_transfer": "Revertir transferencia de cuenta"
+      "undo_account_transfer": "Revertir transferencia de cuenta",
+      "Quick Access": "Acceso Rápido"
     },
     "catalogs": {
       "Interest payment waiver": "Exención de pago de intereses",
@@ -2904,7 +2905,7 @@
       "Time": "Tiempo",
       "To": "A",
       "To Account": "A la cuenta",
-      "To Account Type": "Al tipo de cuenta",
+      "To Account Type": "Tipo de Cuenta Destino",
       "To Client": "Al cliente",
       "To Date": "Hasta la fecha",
       "To Loan Officer": "Al Promotor de Crédito",
@@ -4318,6 +4319,45 @@
       "validationSaved": "Datos de validación guardados exitosamente.",
       "workingCapitalDiscountUpdated": "El descuento del préstamo de capital de trabajo se actualizó correctamente.",
       "unableToUpdateDiscount": "No se pudo actualizar el descuento."
+    },
+    "selections": {
+      "standingInstructions": {
+        "accountTransferType": {
+          "account.transfer": "Transferencia entre Cuentas",
+          "loan.repayment": "Pago de Préstamo"
+        },
+        "standingInstructionPriority": {
+          "urgent": "Urgente",
+          "high": "Alta",
+          "medium": "Media",
+          "low": "Baja"
+        },
+        "standingInstructionStatus": {
+          "active": "Activa",
+          "disabled": "No Activa",
+          "deleted": "Eliminada"
+        },
+        "accountType": {
+          "savings": "Cuenta de Ahorros",
+          "loan": "Cuenta de Préstamo"
+        },
+        "standingInstructionType": {
+          "fixed": "Monto Fijo",
+          "dues": "Monto basado en Cuotas"
+        },
+        "accountTransferRecurrenceType": {
+          "periodic": "Periódica",
+          "as.per.dues": "Según Calendario de Cuotas"
+        },
+        "frequencyperiodFrequencyType": {
+          "days": "Días",
+          "weeks": "Semanas",
+          "months": "Meses",
+          "years": "Años"
+        },
+        "own.account": "Cuenta Propia",
+        "other.bank": "Otro Banco"
+      }
     }
   },
   "languages": {
