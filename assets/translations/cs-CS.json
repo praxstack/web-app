@@ -374,7 +374,8 @@
     "report": {
       "type": "Generování reportu",
       "generated": "Report: data {{reportName}} vygenerována",
-      "generatedNoData": "Report: {{reportName}} vygenerován bez dat"
+      "generatedNoData": "Report: {{reportName}} vygenerován bez dat",
+      "loadFailed": "Nepodařilo se načíst data sestavy. Zkuste to prosím znovu."
     },
     "clipboard": {
       "type": "Schránka",
@@ -1965,6 +1966,8 @@
       "Disbursement on": "Výplata zapnuta",
       "Discount": "Sleva",
       "Discount Default": "Výchozí sleva",
+      "Discount External Id": "Externí id slevy",
+      "Discount External Id must differ from External Id": "Externí id slevy se musí lišit od externího id",
       "Discount must be greater than or equal to 0": "Sleva musí být větší nebo rovna 0",
       "Display Name": "Zobrazovaný název",
       "Dividend Amount": "Částka dividendy",
@@ -2060,6 +2063,7 @@
       "External ID not found": "Externí ID nenalezeno",
       "External ID verified successfully": "Externí ID úspěšně ověřeno",
       "External Id": "Externí id",
+      "External Id is too long": "Externí id je příliš dlouhé",
       "External Reference ID": "Externí referenční ID",
       "External id": "Externí id",
       "FAMILY MEMBERS": "ČLENOVÉ RODINY",
@@ -3142,6 +3146,7 @@
       "Deposit": "Vklad",
       "Disburse": "Vyplatit",
       "Disburse to Savings": "Výplata na Úspory",
+      "Discount Fee": "Poplatek za slevu",
       "Edit Repayment Schedule": "Upravit splátkový kalendář",
       "Foreclosure": "Exekuce",
       "Frequent Postings": "Časté příspěvky",

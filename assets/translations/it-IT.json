@@ -374,7 +374,8 @@
     "report": {
       "type": "Generazione report",
       "generated": "Report: dati di {{reportName}} generati",
-      "generatedNoData": "Report: {{reportName}} generato senza dati"
+      "generatedNoData": "Report: {{reportName}} generato senza dati",
+      "loadFailed": "Impossibile caricare i dati del report. Si prega di riprovare."
     },
     "clipboard": {
       "type": "Appunti",
@@ -1965,6 +1966,8 @@
       "Disbursement on": "Erogazione in corso",
       "Discount": "Sconto",
       "Discount Default": "Sconto predefinito",
+      "Discount External Id": "ID esterno dello sconto",
+      "Discount External Id must differ from External Id": "L'ID esterno dello sconto deve essere diverso dall'ID esterno",
       "Discount must be greater than or equal to 0": "Lo sconto deve essere maggiore o uguale a 0",
       "Display Name": "Nome da visualizzare",
       "Dividend Amount": "Importo del dividendo",
@@ -2060,6 +2063,7 @@
       "External ID not found": "ID esterno non trovato",
       "External ID verified successfully": "ID esterno verificato con successo",
       "External Id": "ID esterno",
+      "External Id is too long": "L'ID esterno è troppo lungo",
       "External Reference ID": "ID di riferimento esterno",
       "External id": "Identificativo esterno",
       "FAMILY MEMBERS": "MEMBRI DELLA FAMIGLIA",
@@ -3141,6 +3145,7 @@
       "Deposit": "Depositare",
       "Disburse": "Sborsare",
       "Disburse to Savings": "Versare al risparmio",
+      "Discount Fee": "Commissione di Sconto",
       "Edit Repayment Schedule": "Modifica il piano di rimborso",
       "Foreclosure": "Pignoramento",
       "Frequent Postings": "Pubblicazioni frequenti",

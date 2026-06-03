@@ -374,7 +374,8 @@
     "report": {
       "type": "Uzalishaji wa ripoti",
       "generated": "Ripoti: data ya {{reportName}} imezalishwa",
-      "generatedNoData": "Ripoti: {{reportName}} imezalishwa bila data"
+      "generatedNoData": "Ripoti: {{reportName}} imezalishwa bila data",
+      "loadFailed": "Imeshindwa kupakia data ya ripoti. Tafadhali jaribu tena."
     },
     "clipboard": {
       "type": "Ubao wa kunakili",
@@ -1962,6 +1963,8 @@
       "Disbursement on": "Ulipaji umewashwa",
       "Discount": "Punguzo",
       "Discount Default": "Punguzo Chaguomsingi",
+      "Discount External Id": "Kitambulisho cha Nje cha Punguzo",
+      "Discount External Id must differ from External Id": "Kitambulisho cha Nje cha Punguzo lazima kitofautiane na Kitambulisho cha Nje",
       "Discount must be greater than or equal to 0": "Punguzo lazima liwe kubwa au sawa na 0",
       "Display Name": "Jina la Kuonyesha",
       "Dividend Amount": "Kiasi cha Mgao",
@@ -2057,6 +2060,7 @@
       "External ID not found": "Kitambulisho cha Nje hakijapatikana",
       "External ID verified successfully": "Kitambulisho cha Nje kimethibitishwa kwa mafanikio",
       "External Id": "Kitambulisho cha Nje",
+      "External Id is too long": "Kitambulisho cha Nje ni kirefu mno",
       "External Reference ID": "Kitambulisho cha kumbukumbu ya nje",
       "External id": "Kitambulisho cha nje",
       "FAMILY MEMBERS": "WANAFAMILIA",
@@ -3138,6 +3142,7 @@
       "Deposit": "Amana",
       "Disburse": "Lipa",
       "Disburse to Savings": "Lipa kwa Akiba",
+      "Discount Fee": "Ada ya Punguzo",
       "Edit Repayment Schedule": "Badilisha Ratiba ya Ulipaji",
       "Foreclosure": "Kukamata Mali",
       "Frequent Postings": "Machapisho ya Mara kwa Mara",
