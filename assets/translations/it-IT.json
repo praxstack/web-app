@@ -475,6 +475,7 @@
     "accounting": {
       "Accrual (periodic)": "Accantonamento (periodico)",
       "Accrual (upfront)": "Accantonamento (in anticipo)",
+      "ACC_DEF_REV_AM": "Accantonamento con ammortamento dei ricavi differiti",
       "CASH_BASED": "Contanti",
       "Cash": "Contanti",
       "NONE": "Nessuno",
@@ -771,7 +772,8 @@
       "Yes": "SÌ",
       "undo_account_transfer": "Annulla trasferimento conto",
       "All": "Tutti",
-      "Pause Breach": "Sospendi Violazione"
+      "Pause Breach": "Sospendi Violazione",
+      "Resume Breach": "Riprendi Violazione"
     },
     "catalogs": {
       "% Amount": "Quantità",
@@ -3338,6 +3340,7 @@
       "Withdrawn": "Ritirato"
     },
     "dialogContext": {
+      "Are you sure you want to resume the breach pause": "Sei sicuro di voler riprendere la violazione dopo la pausa ?",
       "Are you sure you want Unassign Staff": "Sei sicuro di voler deassegnare il personale",
       "Are you sure you want to calculate interest ?": "Sei sicuro di voler calcolare gli interessi ?",
       "Are you sure you want to post interest ?": "Sei sicuro di voler registrare gli interessi ?",
